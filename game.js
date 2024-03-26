@@ -162,7 +162,7 @@ let drawScore = () => {
         oneBlockSize * (map.length + 1)
         
     );
-    if(score == 225) {
+    if(score == 226) {
         alert("CONGRATULATION");
         document.location.reload();
     }
